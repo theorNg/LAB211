@@ -1,0 +1,2 @@
+EQU00001|TaPro|49kg|69|Good
+EQU00002|May Chay|VIP|4|Good

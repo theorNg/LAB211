@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/ui/Main.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/controller/Controller.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/ManagerLoan.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/entity/Book.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/utils/Validator.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/ManagerUser.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/entity/Loan.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/ManagerBook.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/UserInputer.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/entity/User.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/BookInputer.java</file>
+            <file>file:/C:/Users/win/Desktop/TAILIEU/LAB211_SUM24/J1.L.P0022_LibraryManager/src/bo/LoanInputer.java</file>
+        </group>
+    </open-files>
+</project-private>
